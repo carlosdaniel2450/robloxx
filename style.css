@@ -1,0 +1,12 @@
+body{
+    background-image: url(imag/roblox.jpg);
+}
+.img{
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    
+}
